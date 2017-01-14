@@ -1,6 +1,11 @@
 import media
 import fresh_tomatoes
 
+'''
+Contains list of movies to display
+Each movie consists of name, description, movie poster and trailer url
+'''
+
 toy_story = media.Movie("Toy Story",
                         "A story of boy and his toys that come to life.",
                         "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
