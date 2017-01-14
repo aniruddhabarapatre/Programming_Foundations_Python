@@ -13,9 +13,9 @@ This is a movie trailer website created as a part of project submission for
 ## Running site
 
 Run `freshtomatoes.py` file using command:
-'''
+```
 python freshtomatoes.py
-'''
+```
 
 This loops over all the movie data present in `entertainmet_center.py` and creates a new **html**
 file - `fresh_tomatoes.html`.
